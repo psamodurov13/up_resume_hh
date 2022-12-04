@@ -1,3 +1,3 @@
-# Обновление резюме для поднятия его в поиске
+# Update resume to get it higher in the search
 
-Обновление резюме один раз в 4 часа на сайте для поднятия его в поиске. 
+Update the resume every 4 hours on the site to raise it in the search.
